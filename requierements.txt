@@ -1,7 +1,7 @@
 asgiref==3.7.2
 certifi==2023.5.7
 charset-normalizer==3.1.0
-Django==4.2.2
+Django
 django-environ==0.10.0
 idna==3.4
 python-decouple==3.8
