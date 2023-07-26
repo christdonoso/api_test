@@ -8,4 +8,4 @@ class Persona(models.Model):
     apellido = models.CharField(max_length=40)
 
     def __str__(self) -> str:
-        return self.nombre + self.apellido
+        return f'{self.nombre} {self.apellido}'
